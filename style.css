@@ -8,7 +8,7 @@ html{
 }
 
 .img-fondo{
-background-image: url("/superbikes/IMG/cbr.jpeg");
+background-image: url("cbr.jpeg");
 }
 img{
     width: 100%;
